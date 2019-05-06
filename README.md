@@ -1,5 +1,5 @@
 # Mandelbrot-set
-Mandelbrot set visualization
+Visualizes Mandelbrot set.
 
 ![](https://cdn.steemitimages.com/DQmfNxenEP8BActecFgGuU2wCp4ZKctraQbX59PRZ9YmvL8/image.png)
 
