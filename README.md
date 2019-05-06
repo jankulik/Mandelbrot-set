@@ -1,2 +1,6 @@
 # Mandelbrot-set
 Mandelbrot set visualization
+
+![](https://cdn.steemitimages.com/DQmfNxenEP8BActecFgGuU2wCp4ZKctraQbX59PRZ9YmvL8/image.png)
+
+![](https://cdn.steemitimages.com/DQmcSRykVADTDrL41HFGsNsQECByyrp8JZdRtwmbpFHcAbe/image.png)
